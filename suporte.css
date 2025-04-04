@@ -1,0 +1,13 @@
+table{width: 100%; height: 98vh;
+border-collapse: collapse;}
+td{width: 7.0%; height: 10%;}
+.ultlinha{
+    background-color: #fdfcfa ;
+}
+.corf{background-color: #fdfcfa;}
+.letrag{text-align: center;
+font-size: 300%;}
+.letragg{font-size:150% ;}
+.centro{font-size: 150%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+body{margin: 0;}
+.linha{background-color: #fded05;}
